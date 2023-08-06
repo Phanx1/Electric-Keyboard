@@ -1,0 +1,3 @@
+RPIO
+PyObjC
+playsound
